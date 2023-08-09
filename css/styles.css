@@ -6,15 +6,25 @@
     text-align: center; 
     font-size: 50px;
     border: 8px groove gold;
-    margin: auto;
+    margin: 0 auto;
     width: 300px;
     padding: 8px;
+    margin-bottom: 50px;
+}
+
+.list {
+    border: 5px outset magenta;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 200px;
 }
 
 
 
 /* Below is for lasagna.html */
 #links {
+    text-align: center;
     font-size: 25px;
     font-weight: bold;
 }
