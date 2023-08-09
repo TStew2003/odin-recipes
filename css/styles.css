@@ -20,6 +20,22 @@
     width: 200px;
 }
 
+#img {
+    display: block;
+    width: 275px;
+    height: auto;
+    border: 3px solid lightblue;
+}
+.img1{
+    margin-top: -260px;;
+}
+.img3{
+    margin-left: auto;
+    margin-top: -380px;
+}
+.img4{
+    margin-left: auto;
+}
 
 
 /* Below is for lasagna.html */
