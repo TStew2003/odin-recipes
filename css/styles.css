@@ -1,10 +1,19 @@
+/* Below is for index.html */
 .header {
     color: blue;
     background-color: black;
+    display: block;
     text-align: center; 
     font-size: 50px;
+    border: 8px groove gold;
+    margin: auto;
+    width: 300px;
+    padding: 8px;
 }
 
+
+
+/* Below is for lasagna.html */
 #links {
     font-size: 25px;
     font-weight: bold;
